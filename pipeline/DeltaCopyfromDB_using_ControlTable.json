@@ -176,7 +176,7 @@
 			},
 			"Data_Destination_Directory": {
 				"type": "String",
-				"defaultValue": "/testFolder"
+				"defaultValue": "/"
 			},
 			"Control_Table_Table_Name": {
 				"type": "String",
