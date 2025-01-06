@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "controldeltaloadDataFactory"
+		},
+		"AzureDatabase_password": {
+			"value": ""
+		},
+		"linkedService1_connectionString": {
+			"value": ""
+		},
+		"AzureDatabase_properties_typeProperties_server": {
+			"value": "anubhatayal.database.windows.net"
+		},
+		"AzureDatabase_properties_typeProperties_database": {
+			"value": "AzureLearning1"
+		},
+		"AzureDatabase_properties_typeProperties_userName": {
+			"value": "SQLSERVER_AT"
+		}
+	}
+}
