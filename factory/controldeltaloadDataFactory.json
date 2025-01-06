@@ -1,0 +1,9 @@
+{
+	"name": "controldeltaloadDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c86cd97-7300-4339-9373-0b3046185a50",
+		"tenantId": "259d10de-9f04-4287-95d6-390f66e7616a"
+	}
+}
